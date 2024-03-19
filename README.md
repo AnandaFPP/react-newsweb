@@ -15,15 +15,12 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Setup .env](#setup-env)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Related Project](#related-project)
-- [Contact](#contact)
-
 
 ## About The Project
 
-NewsWeb adalah sebuah proyek aplikasi web untuk menampilkan berita menggunakan library React dan framework CSS Tailwind. Proyek ini juga menggunakan beberapa hooks dari react-router-dom untuk navigasi, serta mengimplementasikan pengamanan API key dengan dotenv.
+NewsWeb is a web application project designed to display news articles using the React library and the Tailwind CSS framework. This project also utilizes several hooks from react-router-dom for navigation, and implements API key security using dotenv.
 
 
 ## Getting Started
@@ -32,8 +29,8 @@ NewsWeb adalah sebuah proyek aplikasi web untuk menampilkan berita menggunakan l
 
 This is an example of how to list things you need to use the software and how to install them.
 
-- [Tailwind](https://tailwindcss.com/)
 - [ReactJS](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 
 ### Installation
@@ -66,9 +63,6 @@ Create .env file in your root project folder.
 ```
 REACT_APP_API_KEY = [API KEY]
 ```
-
-<!-- ROADMAP -->
-
 
 ## Contributing
 
