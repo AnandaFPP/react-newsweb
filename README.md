@@ -1,9 +1,6 @@
 <br />
 <p align="center">
   <h3 align="center">Quiz App</h3>
-  <p align="center">
-    <a href="https://quiz-app-chi-gules.vercel.app/">View Demo</a>
-  </p>
 </p>
 
 ## Table of Contents
@@ -78,7 +75,5 @@ Contributions are what make the open source community such an amazing place to b
 
 
 :rocket: [`Frontend NewsWeb`](https://github.com/AnandaFPP/react-newsweb.git)
-
-:rocket: [`Demo NewsWeb`](https://quiz-app-chi-gules.vercel.app/)
 
 Project Link: [https://github.com/AnandaFPP/react-newsweb.git](https://github.com/AnandaFPP/react-newsweb.git)
