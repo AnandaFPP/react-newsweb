@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Quiz App</h1>
+  <h1>NewsWeb</h1>
 </p>
 
 ## Table of Contents
