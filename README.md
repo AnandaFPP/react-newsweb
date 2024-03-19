@@ -1,6 +1,5 @@
-<br />
 <p align="center">
-  <h3 align="center">Quiz App</h3>
+  <h1>Quiz App</h1>
 </p>
 
 ## Table of Contents
